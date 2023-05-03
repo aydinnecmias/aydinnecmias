@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aydinnecmias" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="aydin-necmi-as" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/aydinnecmias" target="_blank"><img align="center" src="https://icon-library.com/images/free-linkedin-icon/free-linkedin-icon-24.jpg" alt="aydin-necmi-as" height="30" width="30" /></a>
 <a href="https://aydinnecmias.medium.com/" target="_blank"><img align="center" src="https://icon-library.com/images/medium-icon/medium-icon-21.jpg" alt="@aydinnecmias" height="30" width="30" /></a>
 </p>
 
